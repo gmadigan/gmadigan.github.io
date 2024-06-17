@@ -1,1 +1,0 @@
-## Gabriel Madigan's Portfolio
