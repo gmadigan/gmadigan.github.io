@@ -2,6 +2,8 @@
 
 ## Image classification of animals
 
+I am currently building an a classifier based on a Convolutional Neural Network (CNN) in [PyTorch](https://pytorch.org/) to identify which animal is present in an image. I use a dataset consisting of labeled images of 10 different animals availible on [Kaggle](https://www.kaggle.com/datasets/alessiocorrado99/animals10) for training and testing the CNN. Data are oversampled to balance the class distributions. This project is ongoing.
+
 * [View on GitHub](https://github.com/gmadigan/image-classification_animals)
 
 ## Sentiment analysis of Yelp reviews
